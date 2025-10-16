@@ -1,3 +1,4 @@
+1.docx
 *.db
 *.log
 *.docx
